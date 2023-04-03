@@ -1,0 +1,260 @@
+{
+	"MatchID": "1ba25412-78b4-4c5a-b7fb-317b0b78310c",
+	"Version": 1671998212411,
+	"State": "IN_PROGRESS",
+	"MapID": "/Game/Maps/Triad/Triad",
+	"ModeID": "/Game/GameModes/_Development/Swiftplay_EndOfRoundCredits/Swiftplay_EoRCredits_GameMode.Swiftplay_EoRCredits_GameMode_C",
+	"ProvisioningFlow": "Matchmaking",
+	"GamePodID": "aresriot.aws-rclusterprod-atl1-1.na-gp-atlanta-1",
+	"AllMUCName": "1ba25412-78b4-4c5a-b7fb-317b0b78310c-all@ares-coregame.na1.pvp.net",
+	"TeamMUCName": "1ba25412-78b4-4c5a-b7fb-317b0b78310c-red@ares-coregame.na1.pvp.net",
+	"TeamVoiceID": "1ba25412-78b4-4c5a-b7fb-317b0b78310c-tm2",
+	"IsReconnectable": true,
+	"ConnectionDetails": {
+		"GameServerHosts": [
+			"192.207.0.1"
+		],
+		"GameServerHost": "192.207.0.1",
+		"GameServerPort": 7225,
+		"GameServerObfuscatedIP": 1798503703,
+		"GameClientHash": 3226254581,
+		"PlayerKey": "bs3tPIQNS4OgZjnsV8MkOY7q2skucnQzBvwBqYbet96CVGRyMZVhEzYWSezAsiVccxxUwOLux54pTQtPZGPVSQ=="
+	},
+	"PostGameDetails": null,
+	"Players": [
+		{
+			"Subject": "8d11e301-da44-5198-a97a-c2c1e866a732",
+			"TeamID": "Blue",
+			"CharacterID": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+			"PlayerIdentity": {
+				"Subject": "8d11e301-da44-5198-a97a-c2c1e866a732",
+				"PlayerCardID": "829e557b-460a-c877-8de7-01b2306cafa6",
+				"PlayerTitleID": "d13e579c-435e-44d4-cec2-6eae5a3c5ed4",
+				"AccountLevel": 172,
+				"PreferredLevelBorderID": "ebc736cd-4b6a-137b-e2b0-1486e31312c9",
+				"Incognito": true,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "e864cbee-0ea2-5cca-8ce4-35f87fbbcf1f",
+			"TeamID": "Blue",
+			"CharacterID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+			"PlayerIdentity": {
+				"Subject": "e864cbee-0ea2-5cca-8ce4-35f87fbbcf1f",
+				"PlayerCardID": "20ca6c88-4079-8cb4-acec-5d9d1241b68f",
+				"PlayerTitleID": "171e2f90-41e0-48d0-bbf5-28a531c7eafb",
+				"AccountLevel": 217,
+				"PreferredLevelBorderID": "49413ac2-4ed5-6953-5791-db838ccb58f3",
+				"Incognito": true,
+				"HideAccountLevel": true
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "d5479623-4752-500f-8f1d-b6e98a8fc988",
+			"TeamID": "Blue",
+			"CharacterID": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+			"PlayerIdentity": {
+				"Subject": "d5479623-4752-500f-8f1d-b6e98a8fc988",
+				"PlayerCardID": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+				"PlayerTitleID": "bf94d3eb-4025-4e4a-9942-a2a17c0da2db",
+				"AccountLevel": 256,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": false,
+				"HideAccountLevel": true
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "8d0d0531-d446-5dc4-a954-2550f75481e2",
+			"TeamID": "Blue",
+			"CharacterID": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+			"PlayerIdentity": {
+				"Subject": "8d0d0531-d446-5dc4-a954-2550f75481e2",
+				"PlayerCardID": "ba21deb2-4dce-38c7-904c-9db6033738e3",
+				"PlayerTitleID": "5b3510f1-49ac-dc6e-2158-bbbd09e071d1",
+				"AccountLevel": 115,
+				"PreferredLevelBorderID": "e6238102-425c-a647-6685-e6af7f8982d9",
+				"Incognito": false,
+				"HideAccountLevel": true
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "13a833b5-1713-59a7-800c-2bb653a09a16",
+			"TeamID": "Blue",
+			"CharacterID": "f94c3b30-42be-e959-889c-5aa313dba261",
+			"PlayerIdentity": {
+				"Subject": "13a833b5-1713-59a7-800c-2bb653a09a16",
+				"PlayerCardID": "c5e7988c-46ec-7742-f1bf-83bdc20b49d9",
+				"PlayerTitleID": "f286dd70-42eb-57ba-9711-e2b56db08448",
+				"AccountLevel": 408,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": true,
+				"HideAccountLevel": true
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "079d4c96-6dcf-50e3-9fcb-3bac893a779d",
+			"TeamID": "Red",
+			"CharacterID": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+			"PlayerIdentity": {
+				"Subject": "079d4c96-6dcf-50e3-9fcb-3bac893a779d",
+				"PlayerCardID": "dc290f6b-4b64-55a2-a0a0-a395c6bf82ec",
+				"PlayerTitleID": "42e2f97d-4e69-274c-589c-0fbdeb397df9",
+				"AccountLevel": 52,
+				"PreferredLevelBorderID": "5156a90d-4d65-58d0-f6a8-48a0c003878a",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "cd761ce9-7bd7-573c-968a-3bfa68b78d71",
+			"TeamID": "Red",
+			"CharacterID": "8e253930-4c05-31dd-1b6c-968525494517",
+			"PlayerIdentity": {
+				"Subject": "cd761ce9-7bd7-573c-968a-3bfa68b78d71",
+				"PlayerCardID": "d29e6e34-44bd-21c8-f7bb-b0a73f267e50",
+				"PlayerTitleID": "28a16537-46e1-5b94-be11-788e89dd2f56",
+				"AccountLevel": 124,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "d651819c-3332-5e68-996a-7df06dc4c6da",
+			"TeamID": "Red",
+			"CharacterID": "601dbbe7-43ce-be57-2a40-4abd24953621",
+			"PlayerIdentity": {
+				"Subject": "d651819c-3332-5e68-996a-7df06dc4c6da",
+				"PlayerCardID": "5b27d2de-4a97-d6c1-76e7-669189c67072",
+				"PlayerTitleID": "a7d5ae34-4907-072c-13f9-67af86ec737c",
+				"AccountLevel": 150,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": true,
+				"HideAccountLevel": true
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "7b029ca9-c31f-5352-81e0-6bd10401525a",
+			"TeamID": "Red",
+			"CharacterID": "A3BFB853-43B2-7238-A4F1-AD90E9E46BCC",
+			"PlayerIdentity": {
+				"Subject": "7b029ca9-c31f-5352-81e0-6bd10401525a",
+				"PlayerCardID": "65cbcfd7-4eeb-d935-ee1b-889c669a9db1",
+				"PlayerTitleID": "08ac32fb-450a-34b8-4aef-d88e50ebd3cb",
+				"AccountLevel": 278,
+				"PreferredLevelBorderID": "547ac9dd-495d-f11d-d921-3fbd14604ae0",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		},
+		{
+			"Subject": "933094fb-279f-5182-a2fa-66c3e2857533",
+			"TeamID": "Red",
+			"CharacterID": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+			"PlayerIdentity": {
+				"Subject": "933094fb-279f-5182-a2fa-66c3e2857533",
+				"PlayerCardID": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+				"PlayerTitleID": "25c60422-4246-fe96-9ac1-d88e7a379571",
+				"AccountLevel": 103,
+				"PreferredLevelBorderID": "e05371e3-4ec4-a53e-168a-c49346a75c19",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsCoach": false,
+			"IsAssociated": true
+		}
+	],
+	"MatchmakingData": {
+		"QueueID": "swiftplay",
+		"IsRanked": false
+	}
+}
